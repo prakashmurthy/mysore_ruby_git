@@ -51,7 +51,7 @@ Edit some stuff and commit
 
 Push your changes to your Github fork
 <pre>
-  git push origin my_awesome_new_feature
+  git push origin my_awesome_new_featur
 </pre>
 
 Go to Github and create a pull request from your commit
@@ -69,7 +69,3 @@ Delete your local topic branch
   git branch -d my_awesome_new_feature
   git log
 </pre>
-
-
-
-
